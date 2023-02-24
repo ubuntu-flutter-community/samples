@@ -4,3 +4,6 @@
 [submodule "calculator"]
 	path = calculator
 	url = https://github.com/ubuntu-flutter-community/calculator.git
+[submodule "licenses"]
+	path = licenses
+	url = https://github.com/ubuntu-flutter-community/licenses.git
