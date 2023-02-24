@@ -1,3 +1,6 @@
 [submodule "numbers"]
 	path = numbers
 	url = https://github.com/ubuntu-flutter-community/numbers.git
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/ubuntu-flutter-community/calculator.git
